@@ -1,0 +1,21 @@
+* {
+  box-sizing: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.container .row {
+  background-color: gray;
+  padding: 10px;
+  margin: 5px auto;
+}
+.container h1 {
+  padding-bottom: 20px;
+  padding-top: 15px;
+}
+.container p {
+  text-align: left;
+}
+.menu-title {
+  padding-bottom: 10px;
+}
